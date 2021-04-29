@@ -1,0 +1,86 @@
+<header id="wm-header" class="wm-header-one">
+
+            <!--// TopStrip \\-->
+			<div class="wm-topstrip">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="wm-language"> <ul> <li><a href="#">English</a></li> </ul> </div>
+                            <ul class="wm-stripinfo">
+                                <li><i class="wmicon-location"></i> 17:55 25-04-202117:55 25-04-202117:56 25-04-202117:58 25-04-2021</li>
+                                <li><i class="wmicon-technology4"></i>9845632457</li>
+                                <li><i class="wmicon-clock2"></i> Mon - fri: 7:00am - 6:00pm</li>
+                            </ul>
+                            <ul class="wm-adminuser-section">
+                                
+                                <li>
+                                    <a href="contact-us.html">Contact</a>
+                                </li>
+                                <li>
+                                    <a href="#" class="wm-search-btn" data-toggle="modal" data-target="#ModalSearch"><i class="wmicon-search"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// TopStrip \\-->
+
+            <!--// MainHeader \\-->
+            <div class="wm-main-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3"><a href="index.html" class="wm-logo"><img src="images/logo-1.png" alt=""></a></div>
+                        <div class="col-md-9">
+                            <!--// Navigation \\-->
+                            <nav class="navbar navbar-default">
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="true">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                  </button>
+                                </div>
+                                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                                  <ul class="nav navbar-nav">
+                                    <li class="active"><a href="index.html">Home</a>
+                                        <ul class="wm-dropdown-menu">
+                                        
+                                        </ul>
+                                    </li>
+                                    <li><a href="courses-grid.html">courses</a>
+                                        <ul class="wm-dropdown-menu">
+                                           
+                                        </ul>
+                                    </li>
+                                    <li><a href="event-grid.html">event</a>
+                                        <ul class="wm-dropdown-menu">
+                                
+                                        </ul>
+                                    </li>
+                                    <li ><a href="#">Dashboard</a>
+                                        <ul class="wm-dropdown-menu">
+                                            <li><a href="student-dashboard-favourite.html">Favourite</a></li>
+                                            <li><a href="student-dashboard-my-courses.html">My Courses</a></li>
+                                            <li><a href="student-dashboard-profile.html">Profile Settings</a></li>
+                                            <li><a href="student-dashboard-settings.html">Settings</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="wm-megamenu-li"><a href="contact-us.html">Contact</a>
+                                        
+                                    </li>
+                                  </ul>
+                                </div>
+                            </nav>
+                            <!--// Navigation \\-->
+                            
+                            <a href="#" data-toggle="modal" data-target="#ModalLogin" class="wm-header-btn">login</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// MainHeader \\-->
+
+		</header>
